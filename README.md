@@ -31,7 +31,8 @@ Always learning — always building.
 - edX: CS50P's Introduction to Programming with Python
 - LinkedIn Learning: Learning Git and GitHub
 - Domestika: Introduction to AI with Python
-- Coursera (deeplearning.ai): Machine Learning Specialization 
+- Coursera (deeplearning.ai): Machine Learning Specialization
+- LinkedIn Learning: SQL Essential Training
 
 ### 📫 Connect with me
 
