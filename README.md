@@ -4,9 +4,9 @@
 <img src="https://images.squarespace-cdn.com/content/v1/56ba85d9cf80a17a6f304b72/01283b4c-6224-449a-be62-a60cb0a6ef52/Synthwave-Skyline-Charlotte-Hero.png?format=2500w" alt="Banner" style="width:100%; height:300px;" />
 
 --------
-I’m an Information Systems major with a Computer Science minor at The University of Akron, working toward a career in AI/ML and software engineering.
+I’m an Information Systems major with a minor in Computer Science at The University of Akron, working towards a career in AI/ML and software engineering.
 
-I’m building my skills in Python, C++, and SQL, while exploring machine learning, data analysis, and cybersecurity. I enjoy applying what I learn through hands-on projects and continuously improving my coding and technical foundations.
+I’m building my skills in Python, C++, and SQL, while exploring machine learning, software development, and data analysis. I enjoy applying what I learn through hands-on projects and continuously improving my coding and technical foundations.
 
 My goal is to pursue a master’s degree in Machine Learning after completing my undergraduate studies, and to further specialize in applied AI/ML development. In the meantime, I’m gaining experience through an internship, personal projects, and certifications.
 
