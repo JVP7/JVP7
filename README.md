@@ -28,7 +28,7 @@ Always learning — always building.
 
 ### 🎓 Certifications & Currently Learning
 
-- edX: CS50 Introduction to Computer Science
+- edX: CS50's Introduction to Computer Science
 - LinkedIn Learning: Learning Git and GitHub
 - Domestika: Introduction to AI with Python
 - Coursera (deeplearning.ai): Machine Learning Specialization
